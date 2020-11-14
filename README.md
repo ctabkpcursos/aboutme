@@ -1,8 +1,5 @@
 # aboutme
-Personal Info CTA (Julio M.)
-
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFzHB1shNrIdg/profile-displaybackgroundimage-shrink_350_1400/0?e=1610582400&v=beta&t=Hto7Gfsyr4CeqnTKm6YKkeI9YhTGIWm_F9FH9gV51x4">
-
 <h1 align="center">Github👋 Julio M.</h1>
 <h3 align="center">Dev.</h3>
 
@@ -32,3 +29,4 @@ Personal Info CTA (Julio M.)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctabkpcursos&show_icons=true&locale=en" alt="ctabkpcursos" /></p>
 
+(by: https://rahuldkjain.github.io/gh-profile-readme-generator/)
