@@ -1,7 +1,6 @@
 # aboutme
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQFzHB1shNrIdg/profile-displaybackgroundimage-shrink_350_1400/0?e=1610582400&v=beta&t=Hto7Gfsyr4CeqnTKm6YKkeI9YhTGIWm_F9FH9gV51x4">
-<h1 align="center">Github👋 Julio M.</h1>
-<h3 align="center">Dev.</h3>
+<h1 align="center">Github - Julio M.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctabkpcursos&label=Profile%20views&color=0e75b6&style=flat" alt="ctabkpcursos" /> </p>
 
