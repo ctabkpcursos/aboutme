@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ctabkpcursos" alt="ctabkpcursos" /></a> </p>
 
-- 🔭 I’m currently working on **Atlassian tests dev.**
+- 🔭 I’m currently working on **Atlassian tests dev., Process and QA.**
 
-- 🌱 I’m currently learning **Forge, JS, Automation, DIY, Android (By AppInventor)**
+- 🌱 I’m currently learning **Forge, JS, Automation, Android (By AppInventor), DIY.**
 
 - 📫 How to reach me **contatocta@outlook.com**
 
