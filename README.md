@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Atlassian tests dev.**
 
-- 🌱 I’m currently learning **Forge, JS, Automation, DIY**
+- 🌱 I’m currently learning **Forge, JS, Automation, DIY, Android (By AppInventor)**
 
 - 📫 How to reach me **contatocta@outlook.com**
 
