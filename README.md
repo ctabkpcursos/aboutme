@@ -10,15 +10,12 @@
 
 - 🌱 I’m currently learning **Forge, JS, Automation, Android (By AppInventor), DIY.**
 
-- 📫 How to reach me **contatocta@outlook.com**
-
 - 📄 Know about my experiences [SFC, COBIT, ITIL, CTFL-AT](SFC, COBIT, ITIL, CTFL-AT)
 
 - ⚡ Fun fact **Run**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jhmjulio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jhmjulio/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,5 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctabkpcursos&show_icons=true&locale=en&layout=compact" alt="ctabkpcursos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctabkpcursos&show_icons=true&locale=en" alt="ctabkpcursos" /></p>
+
+
+- 📫 @: **contatocta@outlook.com**
 
 (by: https://rahuldkjain.github.io/gh-profile-readme-generator/)
